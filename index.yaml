@@ -9,6 +9,6 @@ entries:
     name: java-spring-service-helm
     type: application
     urls:
-    - java-spring-service/java-spring-service-helm-0.1.0.tgz
+    - java-spring-service-helm-0.1.0.tgz
     version: 0.1.0
 generated: "2024-05-01T13:03:28.300006+03:00"
