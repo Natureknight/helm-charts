@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  java-spring-service-helm:
+  java-spring-service:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-05-01T13:03:28.300858+03:00"
+    created: "2024-05-01T14:45:44.394441+03:00"
     description: A Helm chart for Kubernetes
-    digest: 7c45b76e9d9f36834e60a1be1077e1dfee9ed523ff1e04275daf57b231738ab8
-    name: java-spring-service-helm
+    digest: 6cfbd22be101d868f157ef1520e30935024d28e0c98626b079f21d427f986cc0
+    name: java-spring-service
     type: application
     urls:
-    - java-spring-service-helm-0.1.0.tgz
+    - java-spring-service-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-01T13:03:28.300006+03:00"
+generated: "2024-05-01T14:45:44.390331+03:00"
