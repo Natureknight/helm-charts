@@ -3,22 +3,12 @@ entries:
   java-spring-service:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-05-01T15:31:57.293953+03:00"
+    created: "2024-05-01T16:46:27.973596+03:00"
     description: A Helm chart for Kubernetes
-    digest: 5f0d3bfcebabb6d1c971c16c3ab08b9c5d057fa9da154cadab442436269eb587
-    name: java-spring-service
-    type: application
-    urls:
-    - java-spring-service-0.2.0.tgz
-    version: 0.2.0
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2024-05-01T15:31:57.293465+03:00"
-    description: A Helm chart for Kubernetes
-    digest: e7bdc11e2cb7a6dd46508ba02e34bea96c32f1729365264d0180cb8735fcb0de
+    digest: 0bae03633ce0f0bac6ad77c4d16743b3b7ee838cb9b2a2f8e018264888df19c7
     name: java-spring-service
     type: application
     urls:
     - java-spring-service-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-01T15:31:57.293045+03:00"
+generated: "2024-05-01T16:46:27.972654+03:00"
